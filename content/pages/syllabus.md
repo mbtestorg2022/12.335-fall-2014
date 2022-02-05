@@ -28,11 +28,48 @@ This course provides an introduction to the atmospheric chemistry involved in cl
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Laboratory Reports | 70 |
-| Presentations | 20 |
-| General Participation | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Reports
+{{< tdclose >}}
+{{< tdopen >}}
+70
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+General Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Laboratory Reports:  
 For the first lab report, please answer the questions directly in complete sentences, with attached graphs if necessary. The first lab report will be graded for (1) scientific content and (2) effectiveness of communication and returned approximately one week after it is handed in. You will then revise the lab report and resubmit it for partial additional credit. The following reports will progressively become more like a short research paper.
