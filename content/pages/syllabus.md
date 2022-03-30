@@ -12,11 +12,11 @@ Lectures / Labs: 2 sessions / week, 1.5 hour / session
 Prerequisites
 -------------
 
-[_5.111 Principles of Chemical Science_](/courses/5-111-principles-of-chemical-science-fall-2008/) or
+[_5.111 Principles of Chemical Science_](/courses/5-111-principles-of-chemical-science-fall-2008) or
 
-[_5.112 Principles of Chemical Science_](/courses/5-112-principles-of-chemical-science-fall-2005/) or
+[_5.112 Principles of Chemical Science_](/courses/5-112-principles-of-chemical-science-fall-2005) or
 
-[_3.091SC Introduction to Solid-State Chemistry_](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)
+[_3.091SC Introduction to Solid-State Chemistry_](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010)
 
 or permission of instructor
 

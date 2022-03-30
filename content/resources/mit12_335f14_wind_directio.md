@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 77f96179-fe15-c37e-d905-4776f8ba1da5
 resourcetype: Image
 title: MIT12_335F14_Wind_directio.jpg
 uid: 0f9c1ab5-64ec-426c-d7d0-5b6589335967

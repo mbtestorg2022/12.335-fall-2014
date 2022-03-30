@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 77f96179-fe15-c37e-d905-4776f8ba1da5
 resourcetype: Image
 title: MIT12_335F14_Ozone_series.jpg
 uid: 5d725c38-ea95-32b7-ea25-9379d6973c08

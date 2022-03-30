@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 77f96179-fe15-c37e-d905-4776f8ba1da5
 resourcetype: Image
 title: MIT12_335F14_CO_series.jpg
 uid: 6d0f0f74-82e1-077e-3635-15bc0070bef6
